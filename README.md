@@ -1,1 +1,3 @@
-# Atividades_M9_2024
+# Atividades
+
+- Semana 1 : UX - Design Sprint.
